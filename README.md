@@ -13,7 +13,7 @@
 
 - 📝 Escrevo artigos no site [https://samztech.com.br/blog](https://samztech.com.br/blog)
 
-- 💬 Me pergunte sobre **Power BI, HTLM, CSS**
+- 💬 Me pergunte sobre **Power BI, HTLM e CSS**
 
 - 📫 Você me acha através do e-mail **contato@samztech.com.br**
 
