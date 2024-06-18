@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smunizz&label=Profile%20views&color=0e75b6&style=flat" alt="smunizz" /> </p>
 
-- 🔭 Estou trabalhando em meu site [samztech.com.br]
+- 🔭 Estou trabalhando em meu site [Samz Tech] (samztech.com.br)
 
 - 🌱 Atualmente estou aprendendo **Java Script, Python, SQL, VBA e Inglês**
 
