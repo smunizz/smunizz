@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java Script, Python, SQL, VBA e Inglês**
 
-- 👯 Atualmente trabalho em uma empresa de Segurança **M J Serviços**
+- 👯 Trabalho em uma empresa de Segurança **M J Serviços**
 
 - 🤝 Em Busca de Novos Projetos (contato@samztech.com.br)
 
