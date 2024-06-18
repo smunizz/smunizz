@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Sandro Muniz</h1>
-<h2 align="center">Sou apaixonado por Tecnologia, procurando sempre me aprimorar no mundo Digital!</h2>
+<h2 align="center">Sou apaixonado por Tecnologia e Segurança Privada, procurando estar sempre me aprimorando nessas áreas e no mundo Digital!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smunizz&label=Profile%20views&color=0e75b6&style=flat" alt="smunizz" /> </p>
 
